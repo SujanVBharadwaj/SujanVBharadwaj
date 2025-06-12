@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **React, Scikit-learn**
 
-- 👯 I’m looking to collaborate on **AI and GEN-AI**
-
+- 👯 I’m looking to collaborate on **AI and GEN-AI**                                                                     
+                                                                                ![Frustrated Under Pressure GIF by Clever Code Lab](https://github.com/user-attachments/assets/2dd92abe-9516-43e8-8f6f-df4265b01748)
 - 💬 Ask me about **AI/ML, Web Frontend**
 
 - 📫 How to reach me **sujanbharadwaj06@gmail.com**
